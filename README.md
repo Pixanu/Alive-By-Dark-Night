@@ -1,6 +1,7 @@
 # Alive-By-Dark-Night
 ![untitled](https://user-images.githubusercontent.com/70447287/152620431-8016d5f5-e613-4bb7-8c29-c2dc1de86c3d.png)
 # Global Game Jam Team Project 
+Link : https://globalgamejam.org/2022/games/alive-dark-night-2
 
 # Game Description
 Alive By Dark Night is a two-player horror shooter with a split-screen in which both players take on the roles of a Hunter and a Prey. 
