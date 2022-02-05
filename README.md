@@ -1,5 +1,5 @@
 # Alive-By-Dark-Night
-
+![untitled](https://user-images.githubusercontent.com/70447287/152620431-8016d5f5-e613-4bb7-8c29-c2dc1de86c3d.png)
 # Global Game Jam Team Project 
 
 # Game Description
@@ -30,5 +30,9 @@ Music:
 
 Simon Emmanuel
 
+![unknown](https://user-images.githubusercontent.com/70447287/152620451-7afd91f0-5ddb-4ed6-b885-0966bd285fbd.png)
+
 # Installation Instructions: 
 Download the zip and run the GameJam2022.exe
+
+
